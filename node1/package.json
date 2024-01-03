@@ -1,0 +1,16 @@
+{
+  "name": "node11",
+  "version": "1.0.0",
+  "description": "설명글 작성",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "anGyonam",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "pg": "^8.11.3"
+  }
+}
